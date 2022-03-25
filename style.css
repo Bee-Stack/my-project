@@ -1,0 +1,27 @@
+.container {
+  position: absolute;
+  width: 600px;
+  height: 200px;
+  border: 1px solid;
+  padding: 10px;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  margin: auto;
+}
+
+input {
+  padding: 10px;
+  width: 570px;
+  font-size: 14px;
+}
+
+#greeting {
+  position: relative;
+  top: 20px;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 40px;
+  padding: 10px;
+}
